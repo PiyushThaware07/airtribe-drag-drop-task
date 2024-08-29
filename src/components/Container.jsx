@@ -42,7 +42,7 @@ export default function Container() {
 
 
     return (
-        <div className='app_container grid grid-cols-3 gap-10'>
+        <div className='app_container grid grid-cols-1 md:grid-cols-3 gap-10'>
             {
                 Object.keys(data).map((status) => {
                     return (
