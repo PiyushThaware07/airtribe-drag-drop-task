@@ -1,0 +1,32 @@
+{
+    "not started": [
+        {
+            "title": "Project Kickoff Meeting",
+            "description": "Schedule and plan the kickoff meeting with stakeholders."
+        },
+        {
+            "title": "Research Market Trends",
+            "description": "Conduct research on current market trends and analyze competitors."
+        }
+    ],
+    "in progress": [
+        {
+            "title": "Develop New Feature",
+            "description": "Work on implementing the new feature for the product based on the latest design specs."
+        },
+        {
+            "title": "Write Technical Documentation",
+            "description": "Draft the technical documentation for the recent system updates and changes."
+        }
+    ],
+    "completed": [
+        {
+            "title": "User Feedback Survey",
+            "description": "Completed the user feedback survey and compiled results."
+        },
+        {
+            "title": "System Upgrade",
+            "description": "Successfully upgraded the system to the latest version with minimal downtime."
+        }
+    ]
+}
